@@ -3,6 +3,6 @@ opencv-python==4.6.0.66
 pydub==0.25.1
 streamlit==1.22.0
 streamlit_webrtc==0.44.7
-twilio~=8.1.0
+twilio~=8.5.0
 altair==4.2.2
 cryptography==38.0.0
